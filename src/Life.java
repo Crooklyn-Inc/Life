@@ -1,3 +1,7 @@
+/*
+Pearson LC
+v 1.0
+ */
 import java.util.Date;
 import java.util.Scanner;
 import java.text.DecimalFormat;
